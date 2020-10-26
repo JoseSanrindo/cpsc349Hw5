@@ -11,11 +11,11 @@
 (function(window) {
     'use strict';
     window.FireBaseConfig = {
-        apiKey: "AIzaSyAL_dI7RwSBYSgH_1aHn_L2ejbcCpPRVJU",
-        authDomain: "cpsc349hw5.firebaseapp.com",
-        databaseURL: "https://cpsc349hw5.firebaseio.com",
-        projectId: "cpsc349hw5",
-        storageBucket: "cpsc349hw5.appspot.com",
-        messagingSenderId: "549527755526",
+        apiKey: "*****",//value removed WEB_API_KEY
+        authDomain: "*****.firebaseapp.com",//value removed PROJECT_ID
+        databaseURL: "https://*****.firebaseio.com",//value removed PROJECT_ID
+        projectId: "*****",//value removed PROJECT_ID
+        storageBucket: "*****.appspot.com",//value removed PROJECT_ID
+        messagingSenderId: "*****",//value removed PROJECT_NUMBER
     };
 })(window);
